@@ -40,3 +40,10 @@ Vous devez travailler seul, sans l'aide de camarades.
 # Lancement du backend
 
 Depuis le dossier `axum_backend`:  `cargo watch -x run`
+
+
+# Figma
+
+Vous pouvez regarder le Figma réalisé pour le site :
+
+https://www.figma.com/design/h6eQF42bdiiR7trlLeweab/Rusty-STAGE?node-id=0-1&t=Uc6iCOnTidROYwbK-1
